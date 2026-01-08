@@ -10,8 +10,8 @@ print("Student Registered Successfully")
 print("Registered Students:", students)
 
 def login():
-    username = "admin"
-    password = "1234"
+    username = "admin123"
+    password = "12345678"
 
     u = input("Enter username: ")
     p = input("Enter password: ")
